@@ -22,7 +22,7 @@ body{
 
 }
 .pricing-table{
-   box-shadow: 0px 0px 18px var(--primary-green-2);
+   box-shadow: 0px 0px 5px var(--primary-green-2);
    text-align: center;
    padding: 30px 0px;
    border-radius: 5px;
