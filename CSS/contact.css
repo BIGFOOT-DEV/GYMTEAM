@@ -673,6 +673,12 @@ footer {
     #youremail {
         width: 200px;
     }
+
+    #feedback{
+        font-size: 1.5rem;
+        font-weight: 500;
+        padding: 10px 15px;
+    }
     
     /* Contact form section adjustments */
     .contact-form-section {
