@@ -236,7 +236,7 @@ h2 {
 
 .section1-content h2 {
   font-family: "Orbitron", sans-serif;
-  color: #0f0;
+  color: var(--primary-green);
   text-align: center;
 }
 
@@ -375,7 +375,7 @@ th,td {
 }
 
 .gallery-btn:hover {
-  background: #0c0;
+  background: var(--primary-green-2);
   transform: scale(1.05);
 }
 
